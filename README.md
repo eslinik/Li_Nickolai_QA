@@ -7,10 +7,6 @@
 
 ---
 
-[Процесс проведения Compatibility Testing](https://docs.google.com/spreadsheets/d/1PcyZ-rMP5P-CX1rj8joqcB6TycZijp0lN19cjMgmGBo/edit?usp=sharing)
-
----
-
 [Тестирование формы авторизации](https://docs.google.com/spreadsheets/d/1PWLiNrttAOndgLbwevnBuhrD8EnR0TX9oJfaQVQgyto/edit?usp=sharing)
 
 ---
@@ -22,4 +18,9 @@
 [Тест кейсы (Родительский контроль)](https://docs.google.com/spreadsheets/d/1T8aRJSLY8VeJ_PrqR900yokyoygQSUbMq61NJKbbR9o/edit?usp=sharing)
 
 ---
+
+[чек лист (приложение по закузу еды "еда и точка")](https://docs.google.com/spreadsheets/d/10GUn7PDq3pf08s5Q3hRdu6shwPLwTDbt6hk3ohNpOGk/edit?usp=sharing)
+
+
+
 

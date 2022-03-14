@@ -19,7 +19,7 @@
 
 ---
 
-[чек лист (приложение по закузу еды "еда и точка")](https://docs.google.com/spreadsheets/d/10GUn7PDq3pf08s5Q3hRdu6shwPLwTDbt6hk3ohNpOGk/edit?usp=sharing)
+[чек лист (приложение по заказу еды "еда и точка")](https://docs.google.com/spreadsheets/d/10GUn7PDq3pf08s5Q3hRdu6shwPLwTDbt6hk3ohNpOGk/edit?usp=sharing)
 
 
 
